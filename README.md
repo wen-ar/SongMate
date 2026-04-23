@@ -7,11 +7,17 @@
 
 ## 📂 專案結構
 ├── main.py              # 主程式入口，提供選單操作
+
 ├── songlogic.py         # 核心邏輯：更新、抽歌、刪除、匯出等功能
+
 ├── update_library.py    # 單獨更新歌庫
+
 ├── draw_songs.py        # 單獨抽歌
+
 ├── delete_result.py     # 單獨撤銷抽歌紀錄
+
 ├── manage_library.py    # 單獨管理歌庫（匯出/刪除）
+
 └── song_library.xlsx    # 歌庫檔案（執行後生成）
 
 ---
